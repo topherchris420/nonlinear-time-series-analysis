@@ -3,12 +3,12 @@ from setuptools import setup, find_packages
 setup(
     name="nonlinear-timeseries-analyzer",
     version="1.0.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Christopher Woodyard",
+    author_email="ciao_chris@proton.me",
     description="A comprehensive toolkit for nonlinear time series analysis",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/nonlinear-time-series-analysis",
+    url="https://github.com/topherchris420/nonlinear-time-series-analysis",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
